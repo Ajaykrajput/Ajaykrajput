@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Ajay a Software Developer from India.
+### Hello! I'm Ajay a passionate Software Developer from India.
 
 ### Portfolio: https://ajaykrajput.netlify.app/
 
@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/ajaykrajput/">
   <img align="left" alt="Ajay Kumar" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajaykrajput&label=Profile%20views&color=0e75b6&style=flat" alt="Ajaykrajput" /> </p>
 
 <br />
 <br />
