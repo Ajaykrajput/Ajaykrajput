@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hello! I'm Ajay a passionate Software Developer from India.
 
-### Portfolio: https://ajaykrajput.netlify.app/
+### Portfolio: https://ajaykrajput.netlify.app
 
 
 <!--- <a href="https://www.linkedin.com/in/ajaykrajput/">
