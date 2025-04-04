@@ -17,9 +17,10 @@ You can click the Preview link to take a look at your changes.
 ### Portfolio: https://ajaykrajput.netlify.app/
 
 
-<a href="https://www.linkedin.com/in/ajaykrajput/">
+<!--- <a href="https://www.linkedin.com/in/ajaykrajput/">
   <img align="left" alt="Ajay Kumar" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a> 
+--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajaykrajput&label=Profile%20views&color=0e75b6&style=flat" alt="Ajaykrajput" height="22px" /> </p>
 
 <br />
